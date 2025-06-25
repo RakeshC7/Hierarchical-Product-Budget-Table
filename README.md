@@ -1,3 +1,5 @@
+<img src="https://github.com/RakeshC7/Hierarchical-Product-Budget-Table/HierarchicalTableSS.png" alt="Hierarchical Product Budget Demo Image" align="center" />
+
 # Hierarchical Product Budget Table
 
 React app for hierarchical product Budget and live variance tracking.
