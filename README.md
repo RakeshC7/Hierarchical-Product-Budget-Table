@@ -1,4 +1,4 @@
-<img src="https://github.com/RakeshC7/Hierarchical-Product-Budget-Table/HierarchicalTableSS.png" alt="Hierarchical Product Budget Demo Image" align="center" />
+<img src="https://raw.githubusercontent.com/RakeshC7/Hierarchical-Product-Budget-Table/refs/heads/main/HierarchicalTableSS.png" alt="Hierarchical Product Budget Demo Image" align="center" />
 
 # Hierarchical Product Budget Table
 
